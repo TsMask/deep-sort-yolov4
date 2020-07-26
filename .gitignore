@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# 模型和视频文件忽略
+model_data/mars-small128.pb
+model_data/market1501.pb
+model_data/yolov4.weights
+model_data/yolov4.h5
+test.mp4
+
 # C extensions
 *.so
 
