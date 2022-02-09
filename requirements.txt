@@ -1,4 +1,4 @@
 Keras==2.4.3
-tensorflow-gpu==2.2.0
+tensorflow-gpu==2.5.3
 opencv-python==4.3.0.36
 image==1.5.32
